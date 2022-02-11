@@ -1,6 +1,6 @@
 # Why one should always seek to understand syntax errors.
 
-A sous chef, who has recently started cooking intricate dishes of perch, cooks something that does not seem quite perfect, and walked up to the head chef to ask for advice.
+A sous chef, who has recently started cooking intricate dishes of perch, cooks something that does not seem quite perfect, and walks up to the head chef to ask for advice.
 
 &ldquo;Please stop stepping on my foot,&rdquo; the head chef says.
 
