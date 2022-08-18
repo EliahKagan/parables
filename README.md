@@ -11,3 +11,5 @@ Each &ldquo;parable&rdquo; is in its own `.md` file.
 To the extent possible under law, Eliah Kagan has waived all copyright and
 related or neighboring rights to Parables. This work is published from: United
 States.
+
+See [`COPYING`](https://github.com/EliahKagan/parables/blob/main/COPYING).
